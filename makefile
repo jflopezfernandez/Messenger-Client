@@ -1,6 +1,6 @@
 CFLAGS=-g -c
 OUTPUT=-o client.exe
-CC=/usr/local/bin/gcc-6.3.0.exe
+CC=/usr/local/bin/gcc.exe
 
 all: client.exe
 
